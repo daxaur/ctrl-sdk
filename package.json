@@ -1,0 +1,24 @@
+{
+  "name": "@ctrl/sdk",
+  "version": "0.1.0",
+  "description": "typescript sdk for ctrl platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "ctrl",
+    "defi",
+    "automation",
+    "workflow",
+    "ethereum"
+  ],
+  "author": "dax",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daxaur/ctrl-sdk"
+  }
+}
